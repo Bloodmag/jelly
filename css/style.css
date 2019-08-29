@@ -1,0 +1,16 @@
+.hui {
+    background-image: url(../img/hui.jpg);
+    height: 100vh;
+    width: 100%;
+    z-index:1 ;
+    position: absolute;
+}
+
+.container{
+    position: relative;
+}
+
+.jelly {
+    position: absolute;
+    z-index:2 ;
+}
